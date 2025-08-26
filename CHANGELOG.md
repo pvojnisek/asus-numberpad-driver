@@ -1,5 +1,9 @@
 # Changelog
 
+### new version (forked from original repo)
+
+- fixed: Asus Zenbook UM3402YA series numpad hardcoded fix
+
 ### 6.5.1 (16.6.2025)
 
 ### Fixed
